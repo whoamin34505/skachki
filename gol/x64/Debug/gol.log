@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\kolgol\Downloads\gol\MyForm.h(419,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  gol.vcxproj -> C:\Users\kolgol\Downloads\gol\x64\Debug\gol.exe

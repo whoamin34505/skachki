@@ -1,0 +1,4 @@
+C:\Users\student\Desktop\gol\x64\Debug\gol.vcxproj.AssemblyReference.cache
+C:\Users\student\Desktop\gol\x64\Debug\gol.MyForm.resources
+C:\Users\student\Desktop\gol\x64\Debug\gol.vcxproj.GenerateResource.cache
+C:\Users\student\Desktop\gol\x64\Debug\gol.exe

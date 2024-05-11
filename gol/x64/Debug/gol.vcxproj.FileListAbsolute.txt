@@ -1,0 +1,3 @@
+C:\Users\kolgol\Downloads\gol\gol\x64\Debug\gol.vcxproj.AssemblyReference.cache
+C:\Users\kolgol\Downloads\gol\gol\x64\Debug\gol.MyForm.resources
+C:\Users\kolgol\Downloads\gol\gol\x64\Debug\gol.vcxproj.GenerateResource.cache
